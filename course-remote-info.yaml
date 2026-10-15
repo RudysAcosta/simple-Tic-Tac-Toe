@@ -1,0 +1,131 @@
+hyperskill_project:
+  id: 48
+  ide_files: https://hyperskill.org/api/projects/48/additional-files/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 15 Oct 2026 03:06:23 UTC"
+stages:
+  - id: 255
+    step: 5397
+    is_completed: true
+  - id: 256
+    step: 5398
+    is_completed: true
+  - id: 257
+    step: 5399
+    is_completed: true
+  - id: 258
+    step: 5400
+    is_completed: true
+  - id: 259
+    step: 5401
+    is_completed: true
+topics:
+  0:
+    - title: Introduction to Java
+      theory_id: 38627
+    - title: "Basic literals: numbers, strings and characters"
+      theory_id: 3522
+    - title: Writing first program
+      theory_id: 3521
+    - title: Printing data
+      theory_id: 3749
+    - title: Types and variables
+      theory_id: 3518
+    - title: Comments
+      theory_id: 3520
+    - title: Reading user input with Scanner
+      theory_id: 9055
+    - title: Coding style conventions
+      theory_id: 12411
+    - title: Naming variables
+      theory_id: 3513
+    - title: Arithmetic operations
+      theory_id: 3519
+    - title: Integer types and operations
+      theory_id: 3565
+    - title: Primitive data types and their sizes
+      theory_id: 3532
+    - title: Type casting
+      theory_id: 3510
+  1:
+    - title: IDE
+      theory_id: 10996
+    - title: Increment and decrement
+      theory_id: 5008
+    - title: Floating-point types and operations
+      theory_id: 3517
+    - title: Boolean type and operations. True and false
+      theory_id: 3516
+    - title: Comparing values. Relational operators
+      theory_id: 3512
+    - title: Conditional statement
+      theory_id: 3503
+    - title: One-line condition with ternary operator
+      theory_id: 3506
+    - title: For loop
+      theory_id: 3505
+    - title: While and do-while loops
+      theory_id: 3498
+    - title: Break and continue. Branching
+      theory_id: 3507
+    - title: Declaring methods
+      theory_id: 10982
+    - title: Calling methods
+      theory_id: 10973
+    - title: Primitive and reference types
+      theory_id: 5035
+    - title: Array
+      theory_id: 3511
+    - title: Characters
+      theory_id: 3514
+    - title: String
+      theory_id: 3523
+    - title: What are bugs
+      theory_id: 5504
+    - title: IntelliJ IDEA
+      theory_id: 37202
+    - title: Debugging overview
+      theory_id: 14368
+    - title: Run and debug with IntelliJ IDEA
+      theory_id: 37206
+  2:
+    - title: "Write, compile, and run"
+      theory_id: 3739
+    - title: Method "main"
+      theory_id: 3489
+    - title: "Multiple conditions: switch"
+      theory_id: 3504
+    - title: Functional decomposition
+      theory_id: 10570
+    - title: Arrays as parameters
+      theory_id: 3594
+    - title: Iterating over arrays
+      theory_id: 3602
+    - title: Constants. Final variables
+      theory_id: 7427
+    - title: What is object-oriented programming
+      theory_id: 3614
+    - title: Multidimensional array
+      theory_id: 1933
+    - title: IntelliJ IDEA basics
+      theory_id: 5819
+    - title: Debugging simple constructs
+      theory_id: 16479
+    - title: Debugging methods
+      theory_id: 52095
+    - title: Hyperskill Academy plugin
+      theory_id: 53354
+    - title: Defining classes
+      theory_id: 3618
+    - title: Instance methods
+      theory_id: 3495
+    - title: Initializing new instances. Constructor
+      theory_id: 3535
+    - title: Objects and their properties
+      theory_id: 4727
+    - title: Static members
+      theory_id: 3534
+  3:
+    - title: Errors in programs
+      theory_id: 3536

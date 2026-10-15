@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="25">
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-classes-java.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-annotationProcessor-java.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-generated-sources-headers-java.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-reports-tests.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-test-results.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task-build-tmp.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).Simple_Tic-Tac-Toe__Java_-task.main" target="21" />
+      <module name="Simple_Tic-Tac-Toe_(Java).util.main" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

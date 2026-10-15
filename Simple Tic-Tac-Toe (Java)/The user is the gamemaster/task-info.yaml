@@ -1,0 +1,10 @@
+type: edu
+files:
+  - name: src/tictactoe/Main.java
+    visible: true
+    learner_created: false
+  - name: test/TicTacToeTest.java
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/48/stages/256/implement#comment
+status: Solved
+record: -1
